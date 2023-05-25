@@ -1,6 +1,9 @@
-# flutter_complete_guide
+# ROLL A DICE APP
+This is a basic Roll dice app  which helps you to roll a die as many times as you want the app ofers a user friendly interface with enjoyable experience for the user.
 
-A new Flutter project.
+![image](https://github.com/Harsh1350/Basic-Dice-App/assets/112113453/105ec618-ebb5-4c97-9e4a-a17d9ee3527d)
+
+
 
 ## Getting Started
 
